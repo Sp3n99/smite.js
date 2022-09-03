@@ -1,5 +1,5 @@
 {
-  "name": "smite.js",
+  "name": "paladins.js",
   "version": "2.2.2",
   "description": "A JavaScript package to help make communication with the Paladins API from Hi-Rez/Evil Mojo easier.",
   "keywords": [
