@@ -1,5 +1,5 @@
 {
-  "name": "paladins.js",
+  "name": "smite.js",
   "version": "2.2.2",
   "description": "A JavaScript package to help make communication with the Paladins API from Hi-Rez/Evil Mojo easier.",
   "keywords": [
@@ -10,8 +10,8 @@
     "rez",
     "hi-rez"
   ],
-  "main": "lib/paladins.js",
-  "types": "lib/paladins.d.ts",
+  "main": "lib/smite.js",
+  "types": "lib/smite.d.ts",
   "scripts": {
     "test": "jest",
     "compile": "rimraf ./lib && tsc",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PaladinsDev/paladins.js.git"
+    "url": "git+https://github.com/Sp3n99/smite.js.git"
   },
   "author": "matthewh",
   "license": "Apache-2.0",
