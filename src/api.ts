@@ -11,7 +11,7 @@ import { Portals } from './util/enumerations';
 
 export class API {
     /** @ignore */
-    private serviceUrl: string = 'https://api.paladins.com/paladinsapi.svc';
+    private serviceUrl: string = 'https://api.smitegame.com/smiteapi.svc';
     /** @ignore */
     private sessionCache: { [key: string]: any} = {};
 
